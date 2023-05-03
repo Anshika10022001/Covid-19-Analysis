@@ -1,5 +1,3 @@
-## Screenshots
-
 ![App Screenshot](https://preparecenter.org/wp-content/uploads/2020/05/IFRC-yellow-COVID-banner-1.png)
 
 
