@@ -2,8 +2,20 @@
 
 
 # Covid-19 Analysis India
+## Project Description
 
 A Data Analysis Project which depicts the conditon of Covid-19 across Indian States
+
+## Outline of the Problem
+- Identification of high-risk regions: By analyzing the data, the project identified the state with the highest number of confirmed cases, allowing health authorities to prioritize resources and interventions in that region.
+
+- Focus on states with high mortality rates: The project identified the states with the most deaths, enabling targeted efforts to enhance healthcare infrastructure, implement preventive measures, and improve healthcare delivery in those areas.
+
+- Highlighting successful vaccination campaigns: The project identified the most vaccinated states, providing valuable insights into effective vaccination strategies. This information can guide future immunization efforts and help replicate successful approaches in other regions.
+
+- Understanding recovery rates: By identifying states with the highest number of recoveries, the project sheds light on effective treatment protocols and healthcare practices. This information can aid in improving patient care and recovery rates in other areas.
+
+- Informing future pandemic preparedness: The insights generated from the project can inform future public health policies and strategies to better prepare for and respond to health crises. The findings contribute to a broader understanding of the pandemic's impact and can guide proactive measures for mitigating similar challenges in the future.
 
 ## Overview
 
@@ -65,6 +77,13 @@ A Data Analysis Project which depicts the conditon of Covid-19 across Indian Sta
 **MS Excel:** Pivot Table, Dashboarding
 
 **MS Powerpoint:** Powerpoint Presentation
+
+## Limitations/Challenges
+- The project involved working with a large amount of complex data, organized in nested dictionaries. Extracting the necessary information from this data was a challenging and time-consuming task.
+- Significant effort was devoted to manipulating the data in pandas dataframes, requiring extensive hours of work to clean, transform, and analyze the dataset effectively.
+- Importing the final dataframes into MySQL for further aggregations and analysis posed another learning curve. YouTube tutorials were utilized to gain the necessary knowledge and skills.
+- Despite these initial hurdles, once the data manipulation and database integration challenges were overcome, the project proceeded smoothly and was successfully completed within a 4-5 day timeframe.
+- The overall project proved to be extensive in terms of its scope and requirements, demanding substantial time and effort to ensure a comprehensive and successful outcome.
 
 ## Future Scope
 
