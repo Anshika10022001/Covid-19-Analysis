@@ -69,14 +69,57 @@ A Data Analysis Project which depicts the conditon of Covid-19 across Indian Sta
 - Continuous learning: Technology and tools are constantly evolving, and keeping up to date with the latest developments can help improve the efficiency and effectiveness of future projects.
 
 ## Tech Stack
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      Requests Library, Series, DataFrames
+    </td>
+  </tr>
+</table>
 
-**Python:** Requests Library, Series, DataFrames
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      Aggregations, joins, Window Functions, Complex Calculations
+    </td>
+  </tr>
+</table>
 
-**My Sql:** Aggregations, Data Manipulations
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://support.microsoft.com/en-us/excel" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      Calculations, Pivot Table, Dashboarding
+    </td>
+  </tr>
+</table>
 
-**MS Excel:** Pivot Table, Dashboarding
-
-**MS Powerpoint:** Powerpoint Presentation
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://support.microsoft.com/en-us/powerpoint" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      Powerpoint Presentation
+    </td>
+  </tr>
+</table>
 
 ## Limitations/Challenges
 - The project involved working with a large amount of complex data, organized in nested dictionaries. Extracting the necessary information from this data was a challenging and time-consuming task.
